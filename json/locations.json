@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Utridarevagen 3B LGH",
+    "street_address": "1001",
+    "city": "karlskrona",
+    "state": "blekinge",
+    "zip": "37140",
+    "phone": "738-096-596"
+  },
+  {
+    "id": 2,
+    "name": "Utridarevagen 3B LGH",
+    "street_address": "1001",
+    "city": "karlskrona",
+    "state": "blekinge",
+    "zip": "37140",
+    "phone": "738-096-596"
+  },
+  {
+    "id": 3,
+    "name": "Utridarevagen 3B LGH",
+    "street_address": "1001",
+    "city": "karlskrona",
+    "state": "blekinge",
+    "zip": "37140",
+    "phone": "738-096-596"
+  }
+  ]
